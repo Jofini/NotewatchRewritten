@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joshm\\Downloads\\AsyncLoadingScreen-master\\AsyncLoadingScreen-master\\Source\\AsyncLoadingScreen\\AsyncLoadingScreen.Build.cs",
+		"C:\\Users\\joshm\\OneDrive\\Documents\\Unreal Projects\\NotewatchRECODE 5.6\\Intermediate\\Source\\NotewatchRECODE.Build.cs",
+		"C:\\Users\\joshm\\OneDrive\\Documents\\Unreal Projects\\NotewatchRECODE 5.6\\Intermediate\\Source\\NotewatchRECODE.Target.cs",
+		"C:\\Users\\joshm\\OneDrive\\Documents\\Unreal Projects\\NotewatchRECODE 5.6\\Intermediate\\Source\\NotewatchRECODEClient.Target.cs",
+		"C:\\Users\\joshm\\OneDrive\\Documents\\Unreal Projects\\NotewatchRECODE 5.6\\Intermediate\\Source\\NotewatchRECODEEditor.Target.cs",
+		"C:\\Users\\joshm\\OneDrive\\Documents\\Unreal Projects\\NotewatchRECODE 5.6\\Intermediate\\Source\\NotewatchRECODEServer.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
